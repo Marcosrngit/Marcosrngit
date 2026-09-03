@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá,meu nome é Marcos e sou do Brasil. Concluí o ensino médio e atualmente estudo Análise e Desenvolvimento de Sistemas na Uniasselvi. Também estou aprofundando meus conhecimentos por meio de um curso de Desenvolvimento Full Stack. Tenho grande paixão por tecnologia, especialmente desenvolvimento web, e busco constantemente aprimorar minhas habilidades e expandir meu conhecimento para me tornar um profissional mais capacitado.</p>
+<p align="left">Olá, meu nome é Marcos e sou do Brasil. Concluí o ensino médio e atualmente estudo Análise e Desenvolvimento de Sistemas na Uniasselvi. Também estou aprofundando meus conhecimentos por meio de um curso de Desenvolvimento Full Stack. Tenho grande paixão por tecnologia, especialmente desenvolvimento web, e busco constantemente aprimorar minhas habilidades e expandir meu conhecimento para me tornar um profissional mais capacitado.</p>
 
 ###
 
