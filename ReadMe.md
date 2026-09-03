@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá me chamo Marcos, sou natural do Brasil. Concluí o ensino médio com o curso técnico de informática, atualmente estou aprofundando meus conhecimentos em um curso Full Stack. Tenho uma grande paixão por tecnologia, especialmente pelo desenvolvimento web, e estou constantemente em busca de aprimorar minhas habilidades e expandir meu conhecimento para me tornar um profissional cada vez mais capacitado.</p>
+<p align="left">Olá,meu nome é Marcos e sou do Brasil. Concluí o ensino médio e atualmente estudo Análise e Desenvolvimento de Sistemas na Uniasselvi. Também estou aprofundando meus conhecimentos por meio de um curso de Desenvolvimento Full Stack. Tenho grande paixão por tecnologia, especialmente desenvolvimento web, e busco constantemente aprimorar minhas habilidades e expandir meu conhecimento para me tornar um profissional mais capacitado.</p>
 
 ###
 
