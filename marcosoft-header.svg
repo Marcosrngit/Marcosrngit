@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">MarcoSoft Developer — Marcos Renan</title>
+<desc id="desc">Desenvolvimento web, interfaces e criação digital. Transformo ideias em soluções digitais.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#222a20" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="400" rx="24" fill="#0c100e"/>
+<rect x="780" width="420" height="400" fill="url(#grid)"/>
+<path d="M0 376H1200" stroke="#c8ff31" stroke-width="3"/>
+<rect x="48" y="42" width="4" height="18" fill="#c8ff31"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="65" y="57" fill="#c8ff31" font-size="15" font-weight="700" letter-spacing="4">MARCOS RENAN / DEVELOPER</text>
+<text x="46" y="154" fill="#f4f6ef" font-size="86" font-weight="700" letter-spacing="-5">marcosoft<tspan fill="#c8ff31">.</tspan></text>
+<text x="50" y="207" fill="#edf1e5" font-size="29">Transformo ideias em soluções digitais.</text>
+<text x="50" y="245" fill="#9aa696" font-size="18">Desenvolvimento web · Interfaces · Criação digital</text>
+<rect x="50" y="294" width="230" height="35" rx="17" fill="#1b2517" stroke="#34462a"/>
+<circle cx="70" cy="312" r="4" fill="#c8ff31"/>
+<text x="84" y="317" fill="#d4e2c6" font-size="13">ABERTO A COLABORAÇÕES</text>
+<text x="48" y="391" fill="#77816f" font-size="10" letter-spacing="2">BRASIL · CÓDIGO + DESIGN</text>
+</g>
+<g fill="none" stroke-linejoin="round">
+<rect x="851" y="90" width="254" height="212" rx="16" fill="#111912" stroke="#384831"/>
+<path d="M851 132H1105" stroke="#384831"/>
+<circle cx="876" cy="111" r="4" fill="#c8ff31"/><circle cx="893" cy="111" r="4" fill="#60704f"/><circle cx="910" cy="111" r="4" fill="#384831"/>
+<path d="M930 177L897 208L930 239M1026 177L1059 208L1026 239M994 164L962 252" stroke="#c8ff31" stroke-width="10"/>
+<path d="M881 277H960M974 277H1010" stroke="#536546" stroke-width="4"/>
+</g></svg>
