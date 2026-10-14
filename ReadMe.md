@@ -5,7 +5,9 @@
 <p align="center">
   <a href="https://marcosoft.pages.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-c8ff31?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=101410" alt="Conheça a MarcoSoft" /></a>
   <a href="https://wa.me/5564999593262?text=Ol%C3%A1%2C%20Marcos%21%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto."><img src="https://img.shields.io/badge/VAMOS_CONVERSAR-172417?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=c8ff31" alt="Conversar pelo WhatsApp" /></a>
-  <a href="https://www.linkedin.com/in/marcos-renan-2b5941308/"><img src="https://img.shields.io/badge/LINKEDIN-172417?style=for-the-badge&amp;logo=linkedin&amp;logoColor=c8ff31" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/marcos-renan-2b5941308/">
+  <img src="./linkedin.svg" alt="LinkedIn" height="28" />
+</a>
 </p>
 
 <p align="center">
