@@ -1,109 +1,129 @@
-<div align="center">
-  <img src="./assets/marcosoft-header.svg" alt="MarcoSoft Developer 鈥� Sites, interfaces e cria莽茫o digital" width="100%" />
-
-  <br />
-
-  <a href="https://marcosoft.pages.dev/"><img alt="MarcoSoft Developer" src="https://img.shields.io/badge/CONHE脟A_A_MARCOSOFT-c8ff31?style=for-the-badge&logo=googlechrome&logoColor=101410&labelColor=c8ff31&color=c8ff31" /></a>
-  <a href="https://www.linkedin.com/in/marcos-renan-2b5941308/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-172417?style=for-the-badge&logo=linkedin&logoColor=c8ff31" /></a>
-  <a href="mailto:contato.marcosrn@gmail.com"><img alt="Contato por e-mail" src="https://img.shields.io/badge/CONTATO-172417?style=for-the-badge&logo=gmail&logoColor=c8ff31" /></a>
-</div>
-
-<br />
-
-## Ol谩, eu sou o Marcos! 馃憢
-
-Sou estudante de **An谩lise e Desenvolvimento de Sistemas na UNIASSELVI**, apaixonado por desenvolvimento web, design e experi锚ncias digitais bem constru铆das.
-
-Estou desenvolvendo a **[MarcoSoft Developer](https://marcosoft.pages.dev/)**, minha marca independente para criar sites, interfaces e solu莽玫es digitais com identidade pr贸pria. Meu objetivo 茅 combinar **visual, clareza e funcionalidade** 鈥� de uma boa primeira impress茫o at茅 uma experi锚ncia que realmente funcione.
-
-- 馃捇 **Foco:** desenvolvimento front-end, interfaces responsivas e landing pages.
-- 馃帹 **Cria莽茫o:** layouts, artes digitais e identidade visual.
-- 馃摎 **Em evolu莽茫o:** JavaScript, Git, GitHub e desenvolvimento Full Stack.
-- 馃 **Aberto a:** projetos freelance, aprendizado, colabora莽茫o e novas oportunidades.
-- 馃搷 **Brasil** 路 Atendimento e colabora莽茫o online.
-
----
-
-## Projetos em destaque
-
-### 馃殌 [MarcoSoft Developer 鈥� minha marca digital](https://marcosoft.pages.dev/)
-
-Landing page da minha iniciativa de desenvolvimento e cria莽茫o digital, com apresenta莽茫o de servi莽os, projetos, tecnologias e contato para or莽amentos.
-
-`HTML5` 路 `CSS3` 路 `JavaScript` 路 `Design responsivo`
-
-**[鈫� Conhecer o site](https://marcosoft.pages.dev/)**
-
-### 馃寪 [Portf贸lio pessoal 鈥� GitHub Pages](https://marcosrngit.github.io/)
-
-Um dos meus primeiros projetos web: uma p谩gina de apresenta莽茫o pessoal com informa莽玫es sobre minha trajet贸ria, habilidades e trabalhos.
-
-`HTML` 路 `CSS` 路 `JavaScript` 路 `GitHub Pages`
-
-**[鈫� Ver demonstra莽茫o](https://marcosrngit.github.io/)** 路 **[鈱� Ver reposit贸rio](https://github.com/Marcosrngit/marcosrngit.github.io)**
-
-> Estou ampliando o portf贸lio com novos projetos e experi锚ncias pr谩ticas. Prefiro destacar o que est谩 constru铆do e funcionando.
-
----
-
-## Tecnologias & ferramentas
-
-<div align="center">
-  <strong>Desenvolvimento web</strong>
-  <br /><br />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-172417?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-172417?style=for-the-badge&logo=css&logoColor=1572B6" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-172417?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-172417?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-172417?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-172417?style=for-the-badge&logo=visualstudiocode&logoColor=23A9F2" />
-  <br /><br />
-  <strong>Cria莽茫o visual</strong>
-  <br /><br />
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-172417?style=for-the-badge&logo=canva&logoColor=00C4CC" />
-  <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Lightroom-172417?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF" />
-</div>
-
----
-
-## O que posso criar
-
-| Desenvolvimento | Cria莽茫o digital |
-|:--|:--|
-| Sites e landing pages responsivas | Artes e pe莽as para redes sociais |
-| Interfaces e prot贸tipos web | Layouts e materiais de apresenta莽茫o |
-| P谩ginas de portf贸lio e divulga莽茫o | Identidade visual para projetos |
-
-馃挰 **Tem uma ideia?** Conte o que voc锚 precisa e conversamos sobre escopo, prazo e possibilidades.
-
-<div align="center">
-  <a href="https://wa.me/5564999593262?text=Ol%C3%A1%21%20Encontrei%20seu%20GitHub%20e%20gostaria%20de%20um%20or%C3%A7amento%20com%20a%20MarcoSoft."><img alt="Solicitar or莽amento por WhatsApp" src="https://img.shields.io/badge/SOLICITAR_OR脟AMENTO-c8ff31?style=for-the-badge&logo=whatsapp&logoColor=0d110e" /></a>
-  <a href="https://marcosoft.pages.dev/#projetos"><img alt="Ver projetos" src="https://img.shields.io/badge/VER_PROJETOS-172417?style=for-the-badge&logo=github&logoColor=c8ff31" /></a>
-</div>
-
----
-
-## Vamos nos conectar?
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/marcos-renan-2b5941308/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/marcosrenanzr/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:contato.marcosrn@gmail.com"><img alt="E--mail" src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://marcosoft.pages.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-141a13?style=flat-square&logo=googlechrome&logoColor=c8ff31" /></a>
-</div>
-
-<details>
-  <summary><strong>馃搳 Ver minhas estat铆sticas do GitHub</strong></summary>
-  <br />
-  <div align="center">
-    <img src="./profile/stats.svg" alt="Estat铆sticas do perfil no GitHub" height="158" />
-    <img src="./profile/top-langs.svg" alt="Linguagens presentes nos meus reposit贸rios p煤blicos" height="158" />
-  </div>
-  <p align="center"><sub>As estat铆sticas s茫o geradas a partir dos dados p煤blicos do GitHub e podem variar conforme os reposit贸rios e as atualiza莽玫es.</sub></p>
-</details>
-
-<br />
+<p align="center">
+  <img src="./assets/marcosoft-header.svg" alt="MarcoSoft Developer — Marcos Renan. Desenvolvimento web, interfaces e criação digital." width="100%" />
+</p>
 
 <p align="center">
-  <sub>Desenvolvendo com prop贸sito, aprendendo todos os dias. 路 <a href="https://marcosoft.pages.dev/">MarcoSoft Developer</a></sub>
+  <a href="https://marcosoft.pages.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-c8ff31?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=101410" alt="Conheça a MarcoSoft" /></a>
+  <a href="https://wa.me/5564999593262?text=Ol%C3%A1%2C%20Marcos%21%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto."><img src="https://img.shields.io/badge/VAMOS_CONVERSAR-172417?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=c8ff31" alt="Conversar pelo WhatsApp" /></a>
+  <a href="https://www.linkedin.com/in/marcos-renan-2b5941308/"><img src="https://img.shields.io/badge/LINKEDIN-172417?style=for-the-badge&amp;logo=linkedin&amp;logoColor=c8ff31" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <a href="#sobre">Sobre</a> ·
+  <a href="#projetos">Projetos</a> ·
+  <a href="#tecnologias">Tecnologias</a> ·
+  <a href="#servicos">Serviços</a> ·
+  <a href="#contato">Contato</a>
+</p>
+
+<br />
+
+<a id="sobre"></a>
+## Olá, eu sou o Marcos Renan!
+
+Sou **desenvolvedor web em formação** e estudante de **Análise e Desenvolvimento de Sistemas na UNIASSELVI**. Gosto de unir código e design para criar interfaces claras, responsivas e com personalidade.
+
+Estou construindo a **[MarcoSoft Developer](https://marcosoft.pages.dev/)**, minha marca independente de desenvolvimento e criação digital. Por aqui, compartilho projetos, experimentos e minha evolução na prática.
+
+- **Meu foco:** front-end, sites institucionais, portfólios e landing pages.
+- **Meu lado criativo:** interfaces, artes digitais e identidade visual.
+- **Estou aprofundando:** JavaScript, Git, GitHub e fundamentos de desenvolvimento Full Stack.
+- **Também exploro:** automação, aplicações de IA e desenvolvimento de jogos 2D.
+- **Aberto a:** trabalhos freelance, colaborações e oportunidades de aprendizado.
+
+<br />
+
+<a id="projetos"></a>
+## Projetos em destaque
+
+### 01 / MarcoSoft Developer
+**Minha marca, meus serviços e minha direção como desenvolvedor.**
+
+Site de apresentação da MarcoSoft, reunindo serviços de desenvolvimento e criação digital, projetos e canais de contato para novas parcerias.
+
+**Foco:** apresentação de serviços · identidade visual · experiência responsiva
+
+[Conhecer a MarcoSoft →](https://marcosoft.pages.dev/)
+
+---
+
+### 02 / Portfólio pessoal
+**Um registro da minha evolução com desenvolvimento web.**
+
+Portfólio com apresentação pessoal, formação, tecnologias, projeto em destaque e contato. Construído com HTML, CSS e JavaScript, com publicação no GitHub Pages.
+
+**Tecnologias:** HTML5 · CSS3 · JavaScript · GitHub Pages
+
+[Ver o projeto →](https://marcosrngit.github.io/) · [Explorar o código →](https://github.com/Marcosrngit/marcosrngit.github.io)
+
+<br />
+
+<a id="tecnologias"></a>
+## Tecnologias e ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-172417?style=for-the-badge&amp;logo=html5&amp;logoColor=c8ff31" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-172417?style=for-the-badge&amp;logo=css&amp;logoColor=c8ff31" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-172417?style=for-the-badge&amp;logo=javascript&amp;logoColor=c8ff31" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-172417?style=for-the-badge&amp;logo=git&amp;logoColor=c8ff31" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-172417?style=for-the-badge&amp;logo=github&amp;logoColor=c8ff31" alt="GitHub" />
+</p>
+
+| Área | O que estou praticando |
+| :--- | :--- |
+| **Estrutura e estilo** | HTML semântico, CSS, layouts responsivos e adaptação para celular |
+| **Interatividade** | JavaScript, navegação, eventos e comportamento de interfaces |
+| **Versionamento** | Git, organização de repositórios e publicação com GitHub |
+| **Criação visual** | Canva, Lightroom, composição e identidade visual |
+| **Novos estudos** | Automação, IA aplicada e desenvolvimento de jogos 2D |
+
+### Meu próximo passo
+
+Aprofundar JavaScript, melhorar a acessibilidade e a experiência no celular, documentar melhor meus projetos e avançar nos fundamentos de back-end.
+
+<br />
+
+<a id="servicos"></a>
+## Como posso contribuir com seu projeto
+
+| Desenvolvimento web | Design e criação digital |
+| :--- | :--- |
+| Sites institucionais e páginas de apresentação | Interfaces e layouts para web |
+| Landing pages para divulgar serviços | Artes para redes sociais |
+| Portfólios pessoais e profissionais | Identidade visual para projetos |
+| Ajustes de layout e responsividade | Materiais digitais de divulgação |
+
+**Da ideia à publicação:** entender o objetivo, organizar o conteúdo, definir o visual, desenvolver e revisar a experiência em diferentes telas.
+
+Tem um projeto em mente? Podemos conversar sobre o que você precisa e definir um escopo adequado.
+
+<br />
+
+## Atividade no GitHub
+
+<p>
+  <img src="./profile/stats.svg" alt="Estatísticas públicas de Marcos Renan no GitHub" width="49%" />
+  <img src="./profile/top-langs.svg" alt="Linguagens presentes nos repositórios públicos de Marcos Renan" width="49%" />
+</p>
+
+<sub>Estatísticas dos repositórios públicos, atualizadas pelo fluxo de automação deste perfil. Linguagens dos repositórios não representam nível de domínio.</sub>
+
+<br /><br />
+
+<a id="contato"></a>
+## Vamos construir algo juntos?
+
+**Sites, interfaces ou uma ideia que precisa sair do papel.** Me conte o que você está planejando.
+
+- **WhatsApp:** [Conversar sobre um projeto](https://wa.me/5564999593262?text=Ol%C3%A1%2C%20Marcos%21%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto.)
+- **E-mail:** [contato.marcosrn@gmail.com](mailto:contato.marcosrn@gmail.com)
+- **LinkedIn:** [Conectar comigo](https://www.linkedin.com/in/marcos-renan-2b5941308/)
+- **Instagram:** [@marcosrenanzr](https://www.instagram.com/marcosrenanzr/)
+- **Portfólio:** [marcosoft.pages.dev](https://marcosoft.pages.dev/)
+
+---
+
+<p align="center">
+  <strong>MarcoSoft Developer</strong><br />
+  <sub>Código com propósito. Design com identidade. Aprendizado contínuo.</sub>
 </p>
