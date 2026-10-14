@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/marcosoft-header.svg" alt="MarcoSoft Developer — Marcos Renan. Desenvolvimento web, interfaces e criação digital." width="100%" />
+  <img src="./marcosoft-header.svg" alt="MarcoSoft Developer — Marcos Renan. Desenvolvimento web, interfaces e criação digital." width="100%" />
 </p>
 
 <p align="center">
